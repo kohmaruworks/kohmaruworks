@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name] 
+# Hi there 👋 I'm [kohmaru] 
 
 **Bridging Applied Category Theory (ACT), Physics, and Deep Learning.**
 
