@@ -30,9 +30,7 @@ I am an AI & Mathematical Engineer specializing in **Physics-Informed Graph Neur
 高単価・高付加価値なR&D領域での技術顧問、および数理AIモデリングの業務委託案件を積極的に募集しています。
 
 ### 📬 Let's Connect
-- **Zenn (Tech Blog):** [ZennのマイページURL]
-- **X (Twitter):** [@YourUsername](URL)
-- **LinkedIn:** [LinkedInのURL]
-- **YouTube:** [チャンネルのURL]
+- **Zenn (Tech Blog):** https://zenn.dev/kohmaruworks358
+- **YouTube:** 準備中
 
 *(Open to consulting, freelance contracts, and deep-tech discussions!)*
